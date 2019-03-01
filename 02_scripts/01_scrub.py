@@ -46,3 +46,4 @@ if __name__ == "__main__":
 
     # quick summary on incoming data
     pp.pprint(df_data.shape) # (5572, 4)
+    pp.pprint(df_data[df_data['collection'] == 'ham'].shape) # (4825, 4)

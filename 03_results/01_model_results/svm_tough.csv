@@ -1,0 +1,4 @@
+,X_test,y_test,y_pred,y_pred_proba
+3132,"LookAtMe!: Thanks for your purchase of a video clip from LookAtMe!, you've been charged 35p. Think you can do better? Why not send a video in a MMSto 32323.",spam,ham,0.5461440531003456
+4419,"When you get free, call me",ham,ham,0.514025140564643
+2340,Cheers for the message Zogtorius. IÂve been staring at my phone for an age deciding whether to text or not.,ham,ham,0.4913998858438165

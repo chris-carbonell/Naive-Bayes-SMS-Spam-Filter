@@ -1,0 +1,5 @@
+,X_test,y_test,y_pred,y_pred_proba
+4773,"Hi, Mobile no.  &lt;#&gt;  has added you in their contact list on www.fullonsms.com It s a great place to send free sms to people For more visit fullonsms.com",ham,ham,0.5126023510332066
+1217,You have 1 new voicemail. Please call 08719181513.,spam,ham,0.5463709847509801
+4965,Dear Voucher holder Have your next meal on us. Use the following link on your pc 2 enjoy a 2 4 1 dining experiencehttp://www.vouch4me.com/etlp/dining.asp,spam,spam,0.478222776011294
+943,How about getting in touch with folks waiting for company? Just txt back your NAME and AGE to opt in! Enjoy the community (150p/SMS),spam,spam,0.4899354421575925

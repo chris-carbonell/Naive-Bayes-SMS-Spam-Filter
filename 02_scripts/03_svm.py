@@ -40,6 +40,8 @@ if __name__ == "__main__":
 
     # summary
     pp.pprint(confusion_matrix(y_test, y_pred))
+    score = svm.score(X_test_v, y_test)
+    print(score) # 98%
 
     # save results
     df_results = pd.DataFrame.from_dict(
@@ -47,9 +49,13 @@ if __name__ == "__main__":
         'y_test': y_test,
         'y_pred': y_pred,
         'y_pred_proba': y_pred_proba[:, 0].tolist()})
-    df_results.to_csv("../03_results/01_model_results/results_svm.csv",
+    df_results.to_csv("../03_results/01_model_results/svm_results.csv",
         encoding='utf-8', index=True)
 
     # quick examples
-    pp.pprint(df_results[df_results['y_test'] == 'ham'].head())
-    pp.pprint(df_results[df_results['y_test'] == 'spam'].head())
+    # pp.pprint(df_results[df_results['y_test'] == 'ham'].head())
+    # pp.pprint(df_results[df_results['y_test'] == 'spam'].head())
+
+    df_results[(df_results['y_pred_proba'] > 0.9) & (df_results['y_test'] == 'ham')].to_csv("../03_results/01_model_results/svm_easy_ham.csv")
+    df_results[(df_results['y_pred_proba'] < 0.1) & (df_results['y_test'] == 'spam')].to_csv("../03_results/01_model_results/svm_easy_spam.csv")
+    df_results[df_results['y_pred_proba'].between(.45,.55, inclusive=True)].to_csv("../03_results/01_model_results/svm_tough.csv")
