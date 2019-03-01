@@ -29,3 +29,4 @@ I found the data here: [https://www.kaggle.com/uciml/sms-spam-collection-dataset
 * [https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a](https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a)
 
 ![Demo Animation](../assets/test.jpg?raw=true)
+![Demo Animation](https://github.com/chris-carbonell/Naive-Bayes-SMS-Spam-Filter/blob/master/assets/test.jpg?raw=true)
