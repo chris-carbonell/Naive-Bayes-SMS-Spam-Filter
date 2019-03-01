@@ -1,0 +1,561 @@
+,X_test,y_test,y_pred,y_pred_proba
+1078,"Yep, by the pretty sculpture",ham,ham,0.9925449772841521
+4028,"Yes, princess. Are you going to make me moan?",ham,ham,0.9996808733318788
+958,Welp apparently he retired,ham,ham,0.9963192159405544
+4642,Havent.,ham,ham,0.9966170468024167
+4674,I forgot 2 ask Ã¼ all smth.. There's a card on da present lei... How? Ã all want 2 write smth or sign on it?,ham,ham,0.9977766775761759
+5461,Ok i thk i got it. Then u wan me 2 come now or wat?,ham,ham,0.9999483801459493
+4210,I want kfc its Tuesday. Only buy 2 meals ONLY 2. No gravy. Only 2 Mark. 2!,ham,ham,0.9887992989358521
+4216,No dear i was sleeping :-P,ham,ham,0.9954271179995603
+1603,Ok pa. Nothing problem:-),ham,ham,0.9992955699361468
+1504,Ill be there on  &lt;#&gt;  ok.,ham,ham,0.9998202244958397
+1783,My uncles in Atlanta. Wish you guys a great semester.,ham,ham,0.9977897733808431
+3465,My phone,ham,ham,0.9980641084033334
+5534,Ok which your another number,ham,ham,0.9973822187857528
+4267,The greatest test of courage on earth is to bear defeat without losing heart....gn tc,ham,ham,0.9873975053253599
+2498,Dai what this da.. Can i send my resume to this id.,ham,ham,0.9983943364363856
+4259,I am late. I will be there at,ham,ham,0.9998346093660914
+147,"FreeMsg Why haven't you replied to my text? I'm Randy, sexy, female and live local. Luv to hear from u. Netcollex Ltd 08700621170150p per msg reply Stop to end",spam,spam,7.583616762381289e-07
+141,"K, text me when you're on the way",ham,ham,0.9895917637220699
+4517,"Congrats! 2 mobile 3G Videophones R yours. call 09061744553 now! videochat wid ur mates, play java games, Dload polyH music, noline rentl. bx420. ip4. 5we. 150pm",spam,spam,2.68875949798053e-07
+3053,Please leave this topic..sorry for telling that..,ham,ham,0.9896743046685071
+5392,Ooooooh I forgot to tell u I can get on yoville on my phone,ham,ham,0.9953380186941245
+2346,"Hi this is yijue, can i meet u at 11 tmr?",ham,ham,0.9972857829521966
+1242,"I want to show you the world, princess :) how about europe?",ham,ham,0.9979962478035113
+3224,Well that must be a pain to catch,ham,ham,0.9903788953146999
+4872,Well. You know what i mean. Texting,ham,ham,0.9960684746508491
+3044,Your bill at 3 is Â£33.65 so thats not bad!,ham,ham,0.992990915960641
+1660,"Yeah, where's your class at?",ham,ham,0.9985664850074958
+3214,What's ur pin?,ham,ham,0.9820118613405318
+501,"Fighting with the world is easy, u either win or lose bt fightng with some1 who is close to u is dificult if u lose - u lose if u win - u still lose.",ham,ham,0.9290415108384179
+1827,"Dude. What's up. How Teresa. Hope you have been okay. When i didnt hear from these people, i called them and they had received the package since dec  &lt;#&gt; . Just thot you'ld like to know. Do have a fantastic year and all the best with your reading. Plus if you can really really Bam first aid for Usmle, then your work is done.",ham,ham,0.99910466253593
+3352,At what time are you coming.,ham,ham,0.9996558090013639
+2687,There r many model..sony ericson also der.. &lt;#&gt; ..it luks good bt i forgot modl no,ham,ham,0.9989018808587699
+1230,Jus ans me lar. U'll noe later.,ham,ham,0.999679913707542
+4,"Nah I don't think he goes to usf, he lives around here though",ham,ham,0.9986460976541727
+4507,When are you guys leaving?,ham,ham,0.9944627273346841
+726,Got it! It looks scrumptious... daddy wants to eat you all night long!,ham,ham,0.9989564033585131
+4323,Sorry . I will be able to get to you. See you in the morning.,ham,ham,0.9985394143326479
+3534,"Sorry, I'll call later",ham,ham,0.9965494569346224
+3406,"Jus chillaxin, what up",ham,ham,0.9989838373387618
+4081,"Sir, good morning. Hope you had a good weekend. I called to let you know that i was able to raise  &lt;#&gt;  from my dad. He however said he would make the rest available by mid feb. This amount is still quite short and i was hoping you would help. Do have a good day. Abiola",ham,ham,0.9998452078522604
+574,Waiting for your call.,ham,spam,0.01416402866923852
+1272,If you still havent collected the dough pls let me know so i can go to the place i sent it to get the control number,ham,ham,0.9998808858249315
+255,"I'm back, lemme know when you're ready",ham,ham,0.9977360279026695
+4992,"We made it! Eta at taunton is 12:30 as planned, hope thatâs still okday?! Good to see you! :-xx",ham,ham,0.9964505375288835
+2582,Yup i'm elaborating on the safety aspects and some other issues..,ham,ham,0.9947295884263841
+5144,I'm in office now da:)where are you?,ham,ham,0.99780702797147
+1973,Yes but can we meet in town cos will go to gep and then home. You could text at bus stop. And don't worry we'll have finished by march â¦ ish!,ham,ham,0.9986743873403594
+3242,Ok i've sent u da latest version of da project.,ham,ham,0.9951683712892718
+359,"I'm an actor. When i work, i work in the evening and sleep late. Since i'm unemployed at the moment, i ALWAYS sleep late. When you're unemployed, every day is saturday.",ham,ham,0.9996891538626154
+1791,Am not working but am up to eyes in philosophy so will text u later when a bit more free for chat...,ham,ham,0.9140515919426431
+758,"Faith makes things possible,Hope makes things work,Love makes things beautiful,May you have all three this Christmas!Merry Christmas!",ham,ham,0.997119292762498
+222,There is os called ubandu which will run without installing in hard disk...you can use that os to copy the important files in system and give it to repair shop..,ham,ham,0.9991205490054258
+3336,"Sorry, got a late start, we're on the way",ham,ham,0.9994202331985937
+4026, &lt;#&gt;  in mca. But not conform.,ham,ham,0.9996955042090747
+4487,have * good weekend.,ham,ham,0.99370137730754
+1924,Hello. They are going to the village pub at 8 so either come here or there accordingly. Ok?,ham,ham,0.9958984688108807
+3316,"FREE MESSAGE Activate your 500 FREE Text Messages by replying to this message with the word FREE For terms & conditions, visit www.07781482378.com",spam,spam,2.2377850874519845e-10
+383,Hey leave it. not a big deal:-) take care.,ham,ham,0.9991346401120659
+4773,"Hi, Mobile no.  &lt;#&gt;  has added you in their contact list on www.fullonsms.com It s a great place to send free sms to people For more visit fullonsms.com",ham,spam,0.008667769748885494
+1897,I tot u outside cos darren say u come shopping. Of course we nice wat. We jus went sim lim look at mp3 player.,ham,ham,0.9987095810792335
+1929,Call from 08702490080 - tells u 2 call 09066358152 to claim Â£5000 prize. U have 2 enter all ur mobile & personal details @ the prompts. Careful!,spam,spam,8.165399735922589e-08
+1745,Someone has conacted our dating service and entered your phone because they fancy you!To find out who it is call from landline 09111030116. PoBox12n146tf15,spam,spam,7.827627164800852e-09
+5189,ree entry in 2 a weekly comp for a chance to win an ipod. Txt POD to 80182 to get entry (std txt rate) T&C's apply 08452810073 for details 18+,spam,spam,1.9279054783550876e-09
+2025,U having lunch alone? I now so bored...,ham,ham,0.986832527042084
+4743,Ya very nice. . .be ready on thursday,ham,ham,0.9929458935024161
+2090,"No i'm not. I can't give you everything you want and need. You actually could do better for yourself on yor own--you've got more money than i do. I can't get work, i can't get a man, i can't pay the rent, i can't even fill my fucking gas tank. yes, i'm stressed and depressed. I didn't even call home for thanksgiving cuz i'll have to tell them i,m up to nothing.",ham,ham,0.9999561243473999
+2282,"I hav almost reached. Call, i m unable to connect u.",ham,ham,0.8669527766627683
+2418,Oh... Lk tt den we take e one tt ends at cine lor... Dun wan yogasana oso can... ,ham,ham,0.9989727649860041
+5302,About  &lt;#&gt; bucks. The banks fees are fixed. Better to call the bank and find out.,ham,ham,0.9253589665541636
+2849,"Sad story of a Man - Last week was my b'day. My Wife did'nt wish me. My Parents forgot n so did my Kids . I went to work. Even my Colleagues did not wish. As I entered my cabin my PA said, '' Happy B'day Boss !!''. I felt special. She askd me 4 lunch. After lunch she invited me to her apartment. We went there. She said,'' do u mind if I go into the bedroom for a minute ? '' ''OK'', I sed in a sexy mood. She came out 5 minuts latr wid a cake...n My Wife, My Parents, My Kidz, My Friends n My Colleagues. All screaming.. SURPRISE !! and I was waiting on the sofa.. ... ..... ' NAKED...!",ham,ham,0.9999671218588987
+1573,Ur cash-balance is currently 500 pounds - to maximize ur cash-in now send GO to 86688 only 150p/msg. CC 08718720201 HG/Suite342/2Lands Row/W1J6HL,spam,spam,6.572145041437576e-10
+5567,"This is the 2nd time we have tried 2 contact u. U have won the Â£750 Pound prize. 2 claim is easy, call 087187272008 NOW1! Only 10p per minute. BT-national-rate.",spam,spam,1.0488306073839923e-08
+3375,Also andros ice etc etc,ham,ham,0.9519295207407173
+1720,Then u better go sleep.. Dun disturb u liao.. U wake up then msg me lor..,ham,ham,0.9995780705860038
+582,Ok anyway no need to change with what you said,ham,ham,0.9988322558414366
+1822,I couldn't say no as he is a dying man and I feel sad for him so I will go and I just wanted you to know I would probably be gone late into your night,ham,ham,0.9986353716379298
+4567,Should i buy him a blackberry bold 2 or torch. Should i buy him new or used. Let me know. Plus are you saying i should buy the  &lt;#&gt; g wifi ipad. And what are you saying about the about the  &lt;#&gt; g?,ham,ham,0.999511942657103
+3338,I AM AT THE GAS STATION. GO THERE.,ham,ham,0.9994676012792654
+3691,What happen dear tell me,ham,ham,0.9997166690991485
+440,But i have to. I like to have love and arrange.,ham,ham,0.9700716226230692
+557,Having lunch:)you are not in online?why?,ham,ham,0.9990408323673678
+2262,Did you show him and wot did he say or could u not c him 4 dust?,ham,ham,0.9997411345627947
+4279,I've reached home finally...,ham,ham,0.9964986670137874
+3513,Already one guy loving you:-.,ham,ham,0.9974316911305402
+2473,"Final Chance! Claim ur Â£150 worth of discount vouchers today! Text YES to 85023 now! SavaMob, member offers mobile! T Cs SavaMob POBOX84, M263UZ. Â£3.00 Subs 16",spam,spam,4.082170495424354e-09
+1310,"Ok, be careful ! Don't text and drive !",ham,ham,0.8624018052146989
+645,Allo! We have braved the buses and taken on the trains and triumphed. I mean weâre in bâham. Have a jolly good rest of week,ham,ham,0.9921749091354558
+5542,Armand says get your ass over to epsilon,ham,ham,0.9398694031898092
+4865,Sorry da..today i wont come to play..i have driving clas..,ham,ham,0.9941538953131197
+3807,URGENT! We are trying to contact you. Last weekends draw shows that you have won a Â£900 prize GUARANTEED. Call 09061701851. Claim code K61. Valid 12hours only,spam,spam,1.0966057741734165e-09
+608,what I meant to say is cant wait to see u again getting bored of this bridgwater banter,ham,ham,0.9929064236375361
+1938,"The fact that you're cleaning shows you know why i'm upset. Your priority is constantly ""what i want to do,"" not ""what i need to do.""",ham,ham,0.9925823556401724
+1494,How are you with moneY...as in to you...money aint a thing....how are you sha!,ham,ham,0.994640826456225
+407,All was well until slightly disastrous class this pm with my fav darlings! Hope day off ok. Coffee wld be good as can't stay late tomorrow. Same time + place as always?,ham,ham,0.9994750025528666
+1356,Convey my regards to him,ham,ham,0.9978312519305482
+28,"I'm back &amp; we're packing the car now, I'll let you know if there's room",ham,ham,0.9997471719693962
+2787,cThen i thk shd b enuff.. Still got conclusion n contents pg n references.. I'll b doing da contents pg n cover pg..,ham,ham,0.9969315800909365
+2243,Nope wif my sis lor... Aft bathing my dog then i can bathe... Looks like it's going 2 rain soon.,ham,ham,0.999907486125494
+1064,We have new local dates in your area - Lots of new people registered in YOUR AREA. Reply DATE to start now! 18 only www.flirtparty.us REPLYS150,spam,spam,0.00905795956389305
+1074,Lul im gettin some juicy gossip at the hospital. Two nurses are talking about how fat they are gettin. And one thinks shes obese. Oyea.,ham,ham,0.9958572575541229
+1697,"Sorry man, my stash ran dry last night and I can't pick up more until sunday",ham,ham,0.9997205193569842
+5299,Well good morning mr . Hows london treatin' ya treacle?,ham,ham,0.9962818261848067
+1117,Hey... What time is your driving on fri? We go for evaluation on fri?,ham,ham,0.9671081984021759
+605,Meet after lunch la...,ham,ham,0.9967039650067727
+1998,"YEH I AM DEF UP4 SOMETHING SAT,JUST GOT PAYED2DAY & I HAVBEEN GIVEN AÂ£50 PAY RISE 4MY WORK & HAVEBEEN MADE PRESCHOOLCO-ORDINATOR 2I AM FEELINGOOD LUV",ham,ham,0.9956469349885297
+44,Great! I hope you like your man well endowed. I am  &lt;#&gt;  inches...,ham,ham,0.9998692703450136
+1687,todays vodafone numbers ending with 0089(my last four digits) are selected to received a Â£350 award. If your number matches please call 09063442151 to claim your Â£350 award,spam,spam,2.7897655179739275e-07
+2809,Yes princess! I want to catch you with my big strong hands...,ham,ham,0.9929135721681979
+3074,Somebody should go to andros and steal ice,ham,ham,0.9740082296813809
+3383,"Well, I meant as opposed to my drunken night of before",ham,ham,0.9946353351066877
+2416,Huh means computational science... Y they like dat one push here n there...,ham,ham,0.9972012185948765
+3203,Okay lor... Wah... like that def they wont let us go... Haha... What did they say in the terms and conditions?,ham,ham,0.9987041897061264
+1453,"That's good, because I need drugs",ham,ham,0.9993526364523783
+3642,"You can stop further club tones by replying ""STOP MIX"" See my-tone.com/enjoy. html for terms. Club tones cost GBP4.50/week. MFL, PO Box 1146 MK45 2WT (2/3)",spam,spam,1.2391304252748334e-08
+4804,How do you plan to manage that,ham,ham,0.9986901373560556
+556,O. Well uv causes mutations. Sunscreen is like essential thesedays,ham,ham,0.9953477877876316
+5255,Ok... Sweet dreams...,ham,ham,0.9983985797233011
+5243,Of course ! Don't tease me ... You know I simply must see ! *grins* ... Do keep me posted my prey ... *loving smile* *devouring kiss*,ham,ham,0.9992791716330436
+33,For fear of fainting with the of all that housework you just did? Quick have a cuppa,ham,ham,0.9874262016922887
+3257,Who were those people ? Were you in a tour ? I thought you were doing that sofa thing you sent me ? Your curious sugar,ham,ham,0.9985304195956252
+5561,Get me out of this dump heap. My mom decided to come to lowes. BORING.,ham,ham,0.9976724299498596
+116,"As I entered my cabin my PA said, '' Happy B'day Boss !!''. I felt special. She askd me 4 lunch. After lunch she invited me to her apartment. We went there.",ham,ham,0.9997997870147476
+3943,She's borderline but yeah whatever.,ham,ham,0.9991365138851697
+1079,Convey my regards to him,ham,ham,0.9978312519305482
+3857,I'm ok. Will do my part tomorrow,ham,ham,0.9997176790597061
+136,I only haf msn. It's yijue@hotmail.com,ham,ham,0.7622445030658408
+81,K. Did you call me just now ah? ,ham,ham,0.9851102973283858
+1630,Sounds like you have many talents! would you like to go on a dinner date next week?,ham,ham,0.9894138250181309
+2198,Bring it if you got it,ham,ham,0.9998614360571401
+2803,And smile for me right now as you go and the world will wonder what you are smiling about and think your crazy and keep away from you ... *grins*,ham,ham,0.997626525478901
+5397,That's necessarily respectful,ham,ham,0.9944568360575413
+2874,I dont understand your message.,ham,ham,0.8639852668449962
+2217,OK i'm waliking ard now... Do u wan me 2 buy anything go ur house?,ham,ham,0.9996797748711538
+2461,i cant talk to you now.i will call when i can.dont keep calling.,ham,ham,0.9799760055415149
+4950,I am in bus on the way to calicut,ham,ham,0.9982998043386118
+1657,Yes I posted a couple of pics on fb. There's still snow outside too. I'm just waking up :),ham,ham,0.9936351213970429
+4331,i thought we were doing a king of the hill thing there.,ham,ham,0.9951663053216765
+1520,Check wid corect speling i.e. Sarcasm,ham,ham,0.9724231141299655
+4937,K..k.:)congratulation ..,ham,ham,0.9819785033030223
+3542,If you are not coughing then its nothing,ham,ham,0.9995078543045538
+3525,Yeah that'd pretty much be the best case scenario,ham,ham,0.999024102389329
+2977,I love u 2 my little pocy bell I am sorry but I love u,ham,ham,0.9998342095202838
+4460,"Welcome to UK-mobile-date this msg is FREE giving you free calling to 08719839835. Future mgs billed at 150p daily. To cancel send ""go stop"" to 89123",spam,spam,3.9754720720749214e-10
+724,Ya even those cookies have jelly on them,ham,ham,0.9940038923909986
+1777,Call FREEPHONE 0800 542 0578 now!,spam,spam,0.04954087408283121
+3493,I will reach office around  &lt;DECIMAL&gt; . &amp; my mobile have problem. You cann't get my voice. So call you asa i'll free,ham,ham,0.9840617539800499
+1914,You want to go? ,ham,ham,0.988168569605186
+1144,And is there a way you can send shade's stuff to her. And she has been wonderful too.,ham,ham,0.9969791460957027
+325,No problem. How are you doing?,ham,ham,0.9991220007955928
+3576,And do you have any one that can teach me how to ship cars.,ham,ham,0.9998312323154871
+5541,Yeah it's jus rite...,ham,ham,0.9982025763670185
+343,Where u been hiding stranger?,ham,ham,0.9891258840069642
+5165,Ã still got lessons?  Ã in sch?,ham,ham,0.9988583341213852
+4201,I will come tomorrow di,ham,ham,0.9988347183568321
+2030,Thanx but my birthday is over already.,ham,ham,0.9990889811551938
+2981,What u mean u almost done? Done wif sleeping? But i tot u going to take a nap.. Yup i send her liao so i'm picking her up at ard 4 smth lor..,ham,ham,0.9997437964081564
+4539,Dare i ask... Any luck with sorting out the car?,ham,ham,0.9874849819443432
+1814,Yes we are chatting too.,ham,ham,0.9891115005286818
+4592,Well done ENGLAND! Get the official poly ringtone or colour flag on yer mobile! text TONE or FLAG to 84199 NOW! Opt-out txt ENG STOP. Box39822 W111WX Â£1.50,spam,spam,1.902922237979189e-09
+2680,"New Tones This week include: 1)McFly-All Ab.., 2) Sara Jorge-Shock.. 3) Will Smith-Switch.. To order follow instructions on next message",spam,ham,0.36919327156598125
+1016,"Dear,regret i cudnt pick call.drove down frm ctla now at cochin home.left mobile in car..ente style ishtamayoo?happy bakrid!",ham,ham,0.952431244818622
+4598,Full heat pa:-) i have applyed oil pa.,ham,ham,0.9975706815612019
+1217,You have 1 new voicemail. Please call 08719181513.,spam,ham,0.20985284736192242
+2565,"Under the sea, there lays a rock. In the rock, there is an envelope. In the envelope, there is a paper. On the paper, there are 3 words... '",ham,ham,0.9914603500003434
+3766,"Someone U know has asked our dating service 2 contact you! Cant guess who? CALL 09058095107 NOW all will be revealed. POBox 7, S3XY 150p ",spam,spam,3.5563756770931274e-08
+259,We tried to contact you re your reply to our offer of a Video Handset? 750 anytime networks mins? UNLIMITED TEXT? Camcorder? Reply or call 08000930705 NOW,spam,spam,7.049610212086423e-10
+5566,"REMINDER FROM O2: To get 2.50 pounds free call credit and details of great offers pls reply 2 this text with your valid name, house no and postcode",spam,spam,4.2479862886577195e-07
+5346,"My Parents, My Kidz, My Friends n My Colleagues. All screaming.. SURPRISE !! and I was waiting on the sofa.. ... ..... ' NAKED...!",ham,ham,0.998629047110612
+1102,"Yeah go on then, bored and depressed sittin waitin for phone to ring... Hope the wind drops though, scary",ham,ham,0.9658958557637907
+3882,Can you plz tell me the ans. BSLVYL sent via fullonsms.com,ham,ham,0.9912088743335902
+308,Lol yes. Our friendship is hanging on a thread cause u won't buy stuff.,ham,ham,0.9384535678514215
+1404,cool. We will have fun practicing making babies!,ham,ham,0.9889690425452509
+3095,Have you emigrated or something? Ok maybe 5.30 was a bit hopeful...,ham,ham,0.9982794014842428
+4227,"Ok thats cool. Its , just off either raglan rd or edward rd. Behind the cricket ground. Gimme ring when ur closeby see you tuesday.",ham,ham,0.996726841401153
+2750,You said not now. No problem. When you can. Let me know.,ham,ham,0.9999379292718198
+169,Great escape. I fancy the bridge but needs her lager. See you tomo ,ham,ham,0.9974913705230448
+4395,Baaaaaaaabe! Wake up ! I miss you ! I crave you! I need you!,ham,ham,0.9988545948281747
+3144,Boy; I love u Grl: Hogolo Boy: gold chain kodstini Grl: Agalla Boy: necklace madstini Grl: agalla Boy: Hogli 1 mutai eerulli kodthini! Grl: I love U kano;-),ham,ham,0.9892239129611482
+2093,"Oh, my love, it's soooo good to hear from you. Omg I missed you so much today. I'm sorry your having problems with the provider but thank you for tming me",ham,ham,0.9997463850384709
+763,Urgent Ur Â£500 guaranteed award is still unclaimed! Call 09066368327 NOW closingdate04/09/02 claimcode M39M51 Â£1.50pmmorefrommobile2Bremoved-MobyPOBox734LS27YF,spam,spam,8.953689391733421e-06
+3565,Do you always celebrate NY's with your family ?,ham,ham,0.9847749759971457
+3780,"Claim a 200 shopping spree, just call 08717895698 now! Have you won! MobStoreQuiz10ppm",spam,spam,6.827677112977721e-07
+4566,"Honeybee Said: *I'm d Sweetest in d World* God Laughed &amp; Said: *Wait,U Havnt Met d Person Reading This Msg* MORAL: Even GOD Can Crack Jokes! GM+GN+GE+GN:)",ham,ham,0.9974107593811284
+447,"Well done, blimey, exercise, yeah, i kinda remember wot that is, hmm. ",ham,ham,0.999036304798692
+1498,I'm putting it on now. It should be ready for  &lt;TIME&gt; ,ham,ham,0.9979211205407895
+2820,Don't forget who owns you and who's private property you are ... And be my good boy always .. *passionate kiss*,ham,ham,0.9436624049478893
+4574,URGENT! This is the 2nd attempt to contact U!U have WON Â£1000CALL 09071512432 b4 300603t&csBCM4235WC1N3XX.callcost150ppmmobilesvary. maxÂ£7. 50,spam,spam,4.446056709970011e-06
+2505,"Hello, my boytoy! I made it home and my constant thought is of you, my love. I hope your having a nice visit but I can't wait till you come home to me ...*kiss*",ham,ham,0.9999643049771302
+5490,K. I will sent it again,ham,ham,0.9993228141276763
+2249,will you like to be spoiled? :),ham,ham,0.9934707516036835
+82,Ok i am on the way to home hi hi,ham,ham,0.9997706824457546
+881,Reminder: You have not downloaded the content you have already paid for. Goto http://doit. mymoby. tv/ to collect your content.,spam,ham,0.2522748830746997
+2048,No de. But call me after some time. Ill tell you k,ham,ham,0.9989670594226944
+314,"Hi the way I was with u 2day, is the normal way&this is the real me. UR unique&I hope I know u 4 the rest of mylife. Hope u find wot was lost.",ham,ham,0.9897819814223927
+79,Its not the same here. Still looking for a job. How much do Ta's earn there.,ham,ham,0.9997100596836984
+72,HI BABE IM AT HOME NOW WANNA DO SOMETHING? XX,ham,ham,0.997135157193894
+1131,Howz pain?hope u r fine..,ham,ham,0.9944198699382748
+1550,Dude sux for snake. He got old and raiden got buff,ham,ham,0.9985286935616189
+5150,"Happy new year to u and ur family...may this new year bring happiness , stability and tranquility to ur vibrant colourful life:):)",ham,ham,0.9254369029748849
+5418,So how are you really. What are you up to. How's the masters. And so on.,ham,ham,0.9992814851222611
+4903,* FREE* POLYPHONIC RINGTONE Text SUPER to 87131 to get your FREE POLY TONE of the week now! 16 SN PoBox202 NR31 7ZS subscription 450pw,spam,spam,1.1849468843964853e-08
+4656,Our Prasanth ettans mother passed away last night. Just pray for her and family.,ham,ham,0.9834847915150401
+996,Change again... It's e one next to escalator...,ham,ham,0.994794291403936
+4376,Ur TONEXS subscription has been renewed and you have been charged Â£4.50. You can choose 10 more polys this month. www.clubzed.co.uk *BILLING MSG*,spam,spam,6.754559158533117e-07
+2667,"* Was a nice day and, impressively, i was sensible, went home early and now feel fine. Or am i just boring?! When's yours, i can't remember.",ham,ham,0.9982379741421135
+2812,Thinkin about someone is all good. No drugs for that,ham,ham,0.9956533286862882
+3132,"LookAtMe!: Thanks for your purchase of a video clip from LookAtMe!, you've been charged 35p. Think you can do better? Why not send a video in a MMSto 32323.",spam,ham,0.5403101013836884
+119,Hmm...my uncle just informed me that he's paying the school directly. So pls buy food.,ham,ham,0.9999188037615442
+125,Ã predict wat time Ã¼'ll finish buying?,ham,ham,0.999727439748982
+5558,"Sorry, I'll call later",ham,ham,0.9965494569346224
+3669,Thanks for loving me so. You rock,ham,ham,0.9990183308508259
+285,"Yeah I think my usual guy's still passed out from last night, if you get ahold of anybody let me know and I'll throw down",ham,ham,0.9997499087684785
+1766,Hi this is yijue... It's regarding the 3230 textbook it's intro to algorithms second edition... I'm selling it for $50...,ham,ham,0.916394976770222
+687,"Every King Was Once A Crying Baby And Every Great Building Was Once A Map.. Not Imprtant Where U r TODAY, BUT Where U Wil Reach TOMORW. Gud ni8",ham,ham,0.998932459100145
+2488,K ill drink.pa then what doing. I need srs model pls send it to my mail id pa.,ham,ham,0.9999069856429392
+4364,"Evry Emotion dsn't hav Words.Evry Wish dsn't hav Prayrs.. If u Smile,D World is wit u.Othrwise even d Drop of Tear dsn't lik 2 Stay wit u.So b happy.. Good morning, keep smiling:-)",ham,ham,0.9994575999299925
+2911,How do you guys go to see movies on your side.,ham,ham,0.9781241975581398
+1847,Its on in engalnd! But telly has decided it won't let me watch it and mia and elliot were kissing! Damn it!,ham,ham,0.9988522207862175
+3819,74355 XMAS iscoming & ur awarded either Â£500 CD gift vouchers & free entry 2 r Â£100 weekly draw txt MUSIC to 87066 TnC,spam,spam,8.089130950420613e-09
+250,Congratulations ur awarded 500 of CD vouchers or 125gift guaranteed & Free entry 2 100 wkly draw txt MUSIC to 87066 TnCs www.Ldew.com1win150ppmx3age16,spam,spam,7.165207890386017e-11
+3655,Why i come in between you people,ham,ham,0.9979339635882281
+2438,"For ur chance to win Â£250 cash every wk TXT: PLAY to 83370. T's&C's www.music-trivia.net custcare 08715705022, 1x150p/wk.",spam,spam,3.996237909809447e-11
+196,Gud mrng dear hav a nice day,ham,ham,0.9954803254256879
+4419,"When you get free, call me",ham,ham,0.5074187068329666
+5257,"As usual..iam fine, happy &amp; doing well..:)",ham,ham,0.9982106469387846
+951,"Awesome, lemme know whenever you're around",ham,ham,0.9946478240162416
+4226,"The world suffers a lot... Not because of the violence of bad people. But because of the silence of good people!, Gud night....",ham,ham,0.9982881327781948
+5002,"Nope. Since ayo travelled, he has forgotten his guy",ham,ham,0.9956931212706079
+2435,Uncle boye. I need movies oh. Guide me. Plus you know torrents are not particularly legal here. And the system is slowing down. What should i do. Have a gr8 day. Plus have you started cos i dont meet you online. How was the honey moon.,ham,ham,0.9996756452408404
+1355,Baaaaabe! I misss youuuuu ! Where are you ? I have to go and teach my class at 5 ...,ham,ham,0.9992262595683085
+200,"Found it, ENC  &lt;#&gt; , where you at?",ham,ham,0.9999563164805152
+1865,You call him now ok i said call him,ham,ham,0.8691462200881263
+1691,Sunshine Quiz Wkly Q! Win a top Sony DVD player if u know which country the Algarve is in? Txt ansr to 82277. Â£1.50 SP:Tyrone,spam,spam,2.9429407782794424e-08
+4358,"HELLOGORGEOUS, HOWS U? MY FONE WAS ON CHARGE LST NITW WEN U TEXD ME. HOPEU AD A NICE WKEND AS IM SURE U DID LOOKIN 4WARD 2 C-IN U 2MRW LUV JAZ",ham,ham,0.9987035526430689
+3134,So no messages. Had food?,ham,ham,0.996525246580194
+4750,Thanx u darlin!im cool thanx. A few bday drinks 2 nite. 2morrow off! Take care c u soon.xxx,ham,ham,0.9955800004994547
+1564,Get ready to put on your excellent sub face :),ham,ham,0.9483306354318571
+3351,Sorry i cant take your call right now. It so happens that there r 2waxsto do wat you want. She can come and ill get her medical insurance. And she'll be able to deliver and have basic care. I'm currently shopping for the right medical insurance for her. So just give me til friday morning. Thats when i.ll see the major person that can guide me to the right insurance.,ham,ham,0.9999018387460226
+4775,U repeat e instructions again. Wat's e road name of ur house?,ham,ham,0.9825935954058597
+2112,Yar he quite clever but aft many guesses lor. He got ask me 2 bring but i thk darren not so willing 2 go. Aiya they thk leona still not attach wat.,ham,ham,0.99996371189994
+3528,Should i send you naughty pix? :),ham,ham,0.9379952785519526
+4807,Call me when u finish then i come n pick u.,ham,ham,0.9996433258408156
+3475,", how's things? Just a quick question.",ham,ham,0.9878532951883701
+1825,Sent me ur email id soon,ham,ham,0.9995285624081883
+634,Got it. Seventeen pounds for seven hundred ml â hope ok.,ham,ham,0.996261343159264
+2697,Nope but i'm going home now then go pump petrol lor... Like going 2 rain soon...,ham,ham,0.9998149597372809
+2954,"URGENT! Your mobile was awarded a Â£1,500 Bonus Caller Prize on 27/6/03. Our final attempt 2 contact U! Call 08714714011",spam,spam,3.902144106140028e-12
+3477,"I can probably come by, everybody's done around  &lt;#&gt;  right?",ham,ham,0.9998808793812963
+179,Text her. If she doesnt reply let me know so i can have her log in,ham,ham,0.9635627136267673
+5485,Also fuck you and your family for going to rhode island or wherever the fuck and leaving me all alone the week I have a new bong &gt;:(,ham,ham,0.9843366281452591
+689,Thanks love. But am i doing torch or bold.,ham,ham,0.9979092878154164
+3366,"Sorry, I'll call later",ham,ham,0.9965494569346224
+2408,"Solve d Case : A Man Was Found Murdered On  &lt;DECIMAL&gt; . &lt;#&gt;  AfterNoon. 1,His wife called Police. 2,Police questioned everyone. 3,Wife: Sir,I was sleeping, when the murder took place. 4.Cook: I was cooking. 5.Gardener: I was picking vegetables. 6.House-Maid: I went 2 d post office. 7.Children: We went 2 play. 8.Neighbour: We went 2 a marriage. Police arrested d murderer Immediately. Who's It? Reply With Reason, If U r Brilliant.",ham,ham,0.997056808207721
+3265,I will send them to your email. Do you mind  &lt;#&gt;  times per night?,ham,ham,0.996281135429397
+3689,I'll meet you in the lobby,ham,ham,0.9998775965815966
+538,Or maybe my fat fingers just press all these buttons and it doesn't know what to do.,ham,ham,0.9945322988770214
+4511,This weekend is fine (an excuse not to do too much decorating),ham,ham,0.9939707568644743
+1587,There are no other charges after transfer charges and you can withdraw anyhow you like,ham,ham,0.9959719897028778
+5223,If I die I want u to have all my stuffs.,ham,ham,0.9974810364713432
+2706,What i mean is do they come chase you out when its over or is it stated you can watch as many movies as you want.,ham,ham,0.9986823288630673
+2295,You have 1 new message. Please call 08718738034.,spam,ham,0.05862716582782075
+5410,"Daddy, shu shu is looking 4 u... U wan me 2 tell him u're not in singapore or wat?",ham,ham,0.9995163095970978
+496,Got meh... When?,ham,ham,0.998798952483564
+592,You have been specially selected to receive a 2000 pound award! Call 08712402050 BEFORE the lines close. Cost 10ppm. 16+. T&Cs apply. AG Promo,spam,spam,0.0035899883354331297
+1342,Just chill for another 6hrs. If you could sleep the pain is not a surgical emergency so see how it unfolds. Okay,ham,ham,0.9981005128742536
+4736,Oh k:)after that placement there ah?,ham,ham,0.999193802649269
+4594,It's ok i wun b angry. Msg u aft i come home tonight.,ham,ham,0.9992418066117839
+4272,Natalja (25/F) is inviting you to be her friend. Reply YES-440 or NO-440 See her: www.SMS.ac/u/nat27081980 STOP? Send STOP FRND to 62468,spam,spam,3.372063475465799e-06
+1676,"Painful words- ""I thought being Happy was the most toughest thing on Earth... But, the toughest is acting Happy with all unspoken pain inside..""",ham,ham,0.9941431686770381
+5272,"Hello.How u doing?What u been up 2?When will u b moving out of the flat, cos I will need to arrange to pick up the lamp, etc. Take care. Hello caroline!",ham,ham,0.9981232175023751
+1005,Umma. Did she say anything,ham,ham,0.9995244603893597
+1410,Where at were hungry too,ham,ham,0.9991357387961651
+3752,"Haha... Sounds crazy, dunno can tahan anot...",ham,ham,0.9915446925209039
+2900,"Aight, I should be there by 8 at the latest, probably closer to 7. Are jay and tyler down or should we just do two trips?",ham,ham,0.9857227837260801
+3127,U coming 2 pick me?,ham,ham,0.9999261483546802
+3426,True. Its easier with her here.,ham,ham,0.9891520498931216
+4999,Can you talk with me..,ham,ham,0.9998577954178305
+1724,"Hi Jon, Pete here, Ive bin 2 Spain recently & hav sum dinero left, Bill said u or ur Ârents mayb interested in it, I hav 12,000pes, so around Â£48, tb, James.",ham,ham,0.9919935643127069
+2242,U buy newspapers already?,ham,ham,0.9946416521894917
+3739,We stopped to get ice cream and will go back after,ham,ham,0.9960667849503954
+1840,Are we doing the norm tomorrow? I finish just a 4.15 cos of st tests. Need to sort library stuff out at some point tomo - got letter from today - access til end march so i better get move on!,ham,ham,0.9965649476524727
+1828,Hey gorgeous man. My work mobile number is. Have a good one babe. Squishy Mwahs.,ham,ham,0.9917062955512363
+3539,We are pleased to inform that your application for Airtel Broadband is processed successfully. Your installation will happen within 3 days.,ham,ham,0.818159118290931
+5306,Ill be at yours in about 3 mins but look out for me,ham,ham,0.9885262772821402
+3202,Nice.nice.how is it working?,ham,ham,0.9979856814726985
+4938,G wants to know where the fuck you are,ham,ham,0.9879898432511993
+1796,"I hope your alright babe? I worry that you might have felt a bit desparate when you learned the job was a fake ? I am here waiting when you come back, my love",ham,ham,0.9999245758241445
+2253,Den wat will e schedule b lk on sun?,ham,ham,0.9887666398528578
+3271,K actually can you guys meet me at the sunoco on howard? It should be right on the way,ham,ham,0.9998389182190774
+575,Nope i waiting in sch 4 daddy... ,ham,ham,0.9922668994020024
+5301,At WHAT TIME should i come tomorrow,ham,ham,0.9998768835271358
+2328,"URGENT! Your mobile number *************** WON a Â£2000 Bonus Caller prize on 10/06/03! This is the 2nd attempt to reach you! Call 09066368753 ASAP! Box 97N7QP, 150ppm",spam,spam,2.94539599979107e-10
+1326,Yeah jay's sort of a fucking retard,ham,ham,0.9947577642750587
+2909,Why must we sit around and wait for summer days to celebrate. Such a magical sight when the worlds dressed in white. Oooooh let there be snow.,ham,ham,0.9607607453748684
+457,"LOOK AT AMY URE A BEAUTIFUL, INTELLIGENT WOMAN AND I LIKE U A LOT. I KNOW U DONÂT LIKE ME LIKE THAT SO DONÂT WORRY.",ham,ham,0.9991399006820537
+2319,On the way to office da..,ham,ham,0.990118213735605
+580,"Arngd marriage is while u r walkin unfortuntly a snake bites u. bt love marriage is dancing in frnt of d snake &amp; sayin Bite me, bite me.",ham,ham,0.998086711465394
+2107,Thank you. I like you as well...,ham,ham,0.9978520996491953
+1247,"I do know what u mean,  is the king of not havin credit! I'm goin2bed now. Night night sweet! Only1more sleep! ",ham,ham,0.9824138828402094
+1731,Doing project w frens lor. ,ham,ham,0.9961308911629998
+2256,"I just lov this line: ""Hurt me with the truth, I don't mind,i wil tolerat.bcs ur my someone..... But, Never comfort me with a lie"" gud ni8 and sweet dreams",ham,ham,0.9974050950997222
+2497,HCL chennai requires FRESHERS for voice process.Excellent english needed.Salary upto  &lt;#&gt; .Call Ms.Suman  &lt;#&gt;  for Telephonic interview -via Indyarocks.com,ham,ham,0.957318366951948
+745,Men like shorter ladies. Gaze up into his eyes.,ham,ham,0.9916549778763282
+2600,"Gosh that , what a pain. Spose I better come then.",ham,ham,0.999796886961352
+4898,I cant pick the phone right now. Pls send a message,ham,ham,0.9874555695707217
+420,Send a logo 2 ur lover - 2 names joined by a heart. Txt LOVE NAME1 NAME2 MOBNO eg LOVE ADAM EVE 07123456789 to 87077 Yahoo! POBox36504W45WQ TxtNO 4 no ads 150p,spam,spam,0.03331056471687656
+2209,"URGENT!! Your 4* Costa Del Sol Holiday or Â£5000 await collection. Call 09050090044 Now toClaim. SAE, TC s, POBox334, Stockport, SK38xh, CostÂ£1.50/pm, Max10mins",spam,spam,2.8778337095408945e-09
+3455,I dont have any of your file in my bag..i was in work when you called me.i 'll tell you if i find anything in my room.,ham,ham,0.9999497195094875
+1375,"500 New Mobiles from 2004, MUST GO! Txt: NOKIA to No: 89545 & collect yours today!From ONLY Â£1 www.4-tc.biz 2optout 087187262701.50gbp/mtmsg18 TXTAUCTION",spam,spam,3.722614438464539e-09
+3879,What you need. You have a person to give na.,ham,ham,0.9982884674666419
+4489,Call me when you get the chance plz &lt;3,ham,ham,0.9968226093777198
+433,Congrats! Nokia 3650 video camera phone is your Call 09066382422 Calls cost 150ppm Ave call 3mins vary from mobiles 16+ Close 300603 post BCM4284 Ldn WC1N3XX,spam,spam,3.2669249774720903e-07
+3978,Great NEW Offer - DOUBLE Mins & DOUBLE Txt on best Orange tariffs AND get latest camera phones 4 FREE! Call MobileUpd8 free on 08000839402 NOW! or 2stoptxt T&Cs,spam,spam,4.297088775716942e-11
+1060,EASTENDERS TV Quiz. What FLOWER does DOT compare herself to? D= VIOLET E= TULIP F= LILY txt D E or F to 84025 NOW 4 chance 2 WIN Â£100 Cash WKENT/150P16+,spam,spam,0.004559859312405451
+126,"Good stuff, will do.",ham,ham,0.9991890410591698
+1852,Dunno da next show aft 6 is 850. Toa payoh got 650.,ham,ham,0.9972098895126287
+1488,I told your number to gautham..,ham,ham,0.9678541099836372
+3670,Yeah imma come over cause jay wants to do some drugs,ham,ham,0.9969774128380287
+1447,Looks like u wil b getting a headstart im leaving here bout 2.30ish but if u r desperate for my company I could head in earlier-we were goin to meet in rummer.,ham,ham,0.9991105640884456
+2603,So when you gonna get rimac access ,ham,ham,0.9976145450287377
+4230,Have you bookedthe hut? And also your time off? How are you by the way?,ham,ham,0.9980795989222551
+5081,"Keep ur problems in ur heart, b'coz nobody will fight for u. Only u &amp; u have to fight for ur self &amp; win the battle. -VIVEKANAND- G 9t.. SD..
+ham	Yeah, give me a call if you've got a minute
+ham	HI BABE UAWAKE?FEELLIKW SHIT.JUSTFOUND OUT VIA ALETTER THATMUM GOTMARRIED 4thNOV.BEHIND OURBACKS Â FUCKINNICE!SELFISH,DEVIOUSBITCH.ANYWAY,IÂL CALL U""",ham,ham,0.9334735534905587
+2646,"Sorry, I'll call later",ham,ham,0.9965494569346224
+206,Ã say until like dat i dun buy ericsson oso cannot oredi lar...,ham,ham,0.9964157961589032
+5483,So li hai... Me bored now da lecturer repeating last weeks stuff waste time... ,ham,ham,0.9972338309920177
+2340,Cheers for the message Zogtorius. IÂve been staring at my phone for an age deciding whether to text or not.,ham,ham,0.48429018470233526
+2390,Boo. How's things? I'm back at home and a little bored already :-(,ham,ham,0.9985150686174088
+3684,When did i use soc... I use it only at home... Ã dunno how 2 type it in word ar...,ham,ham,0.9997693817574415
+545,This girl does not stay in bed. This girl doesn't need recovery time. Id rather pass out while having fun then be cooped up in bed,ham,ham,0.9954024039407962
+1832,Hello- thanx for taking that call. I got a job! Starts on monday!,ham,ham,0.9794068407426383
+3232,No plm i will come da. On the way.,ham,ham,0.9992447738813213
+2054,"Oh... I was thkin of goin yogasana at 10 den no nd to go at 3 den can rush to parco 4 nb... Okie lor, u call me when ready...",ham,ham,0.9981455991509826
+2970,Ma head dey swell oh. Thanks for making my day,ham,ham,0.9980734485409379
+2946,"Hey babe, sorry i didn't get sooner. Gary can come and fix it cause he thinks he knows what it is but he doesn't go as far a Ptbo and he says it will cost  &lt;#&gt;  bucks. I don't know if it might be cheaper to find someone there ? We don't have any second hand machines at all right now, let me know what you want to do babe",ham,ham,0.9999561801779657
+1385,"Storming msg: Wen u lift d phne, u say ""HELLO"" Do u knw wt is d real meaning of HELLO?? . . . It's d name of a girl..! . . . Yes.. And u knw who is dat girl?? ""Margaret Hello"" She is d girlfrnd f Grahmbell who invnted telphone... . . . . Moral:One can 4get d name of a person, bt not his girlfrnd... G o o d n i g h t . . .@",ham,ham,0.9874669372060181
+2399,YO YO YO BYATCH WHASSUP?,ham,ham,0.9910259090401102
+1662,"You aren't coming home between class, right? I need to work out and shower!",ham,ham,0.9995692229757829
+976,Hey no I ad a crap nite was borin without ya 2 boggy with me u boring biatch! Thanx but u wait til nxt time il ave ya ,ham,ham,0.9994112122620947
+2973,Sary just need Tim in the bollox &it hurt him a lot so he tol me!,ham,ham,0.999974129048759
+4887,Or just do that 6times,ham,ham,0.9757289841432372
+2723,It's justbeen overa week since we broke up and already our brains are going to mush!,ham,ham,0.9791205331734862
+1600,"Yeah probably, I still gotta check out with leo",ham,ham,0.9887213211471674
+4004,somewhere out there beneath the pale moon light someone think in of u some where out there where dreams come true... goodnite &amp; sweet dreams,ham,ham,0.9986577483216441
+313,He says he'll give me a call when his friend's got the money but that he's definitely buying before the end of the week,ham,ham,0.9997410849329411
+2908,ALRITE,ham,ham,0.9900877539014018
+2878,twenty past five he said will this train have been to durham already or not coz i am in a reserved seat,ham,ham,0.9965253506376899
+3595,Do you want a New Nokia 3510i Colour Phone Delivered Tomorrow? With 200 FREE minutes to any mobile + 100 FREE text + FREE camcorder Reply or Call 08000930705,spam,spam,1.914698874597428e-11
+2652,"Text me when you get off, don't call, my phones having problems",ham,ham,0.9344065900398179
+2128,Tessy..pls do me a favor. Pls convey my birthday wishes to Nimya..pls dnt forget it. Today is her birthday Shijas,ham,ham,0.999462236956472
+5035,I want to go to perumbavoor,ham,ham,0.889434557659837
+428,Any pain on urination any thing else?,ham,ham,0.98935696273025
+4192,"Each Moment in a day,has its own value-Morning brings hope,afternoon brings faith,Evening brings luv,Night brings rest,Wish u find them all today.Good Morning",ham,ham,0.9941684403926312
+5269,"If you don't, your prize will go to another customer. T&C at www.t-c.biz 18+ 150p/min Polo Ltd Suite 373 London W1J 6HL Please call back if busy ",spam,spam,4.447031740028884e-07
+1380,No. 1 Nokia Tone 4 ur mob every week! Just txt NOK to 87021. 1st Tone FREE ! so get txtin now and tell ur friends. 150p/tone. 16 reply HL 4info,spam,spam,7.404070793886044e-10
+5356,Tell me something. Thats okay.,ham,ham,0.9998507832889587
+2227,If you have belive me. Come to my home.,ham,ham,0.9999172286543222
+729,Exactly. Anyways how far. Is jide her to study or just visiting,ham,ham,0.9695220110389084
+486,If we win its really no 1 side for long time.,ham,ham,0.9498590563731113
+2903,"Bill, as in: Are there any letters for me. iâm expecting one from orange that isnât a bill but may still say orange on it.",ham,ham,0.9769212686235635
+5176,Company is very good.environment is terrific and food is really nice:),ham,ham,0.9955645640081479
+3631,Get the official ENGLAND poly ringtone or colour flag on yer mobile for tonights game! Text TONE or FLAG to 84199. Optout txt ENG STOP Box39822 W111WX Â£1.50,spam,spam,4.050458501715435e-09
+1122,Do you want 750 anytime any network mins 150 text and a NEW video phone for only five pounds per week call 08000776320 now or reply for delivery Tomorrow,spam,spam,2.650972543091824e-09
+2514,U have won a nokia 6230 plus a free digital camera. This is what u get when u win our FREE auction. To take part send NOKIA to 83383 now. POBOX114/14TCR/W1 16,spam,spam,5.298130407448886e-10
+5398,Hi. Hope you had a good day. Have a better night.,ham,ham,0.9994719495526406
+3563,Still chance there. If you search hard you will get it..let have a try :),ham,ham,0.9980815438881977
+1125,Aiyar sorry lor forgot 2 tell u...,ham,ham,0.9990891541318309
+566,"Ill call u 2mrw at ninish, with my address that icky American freek wont stop callin me 2 bad Jen k eh?",ham,ham,0.9688168851431571
+783,Beerage?,ham,ham,0.9819785033030223
+2252,hope things went well at 'doctors' ;) reminds me i still need 2go.did u c d little thing i left in the lounge?,ham,ham,0.9999360053011667
+386,It took Mr owl 3 licks,ham,ham,0.9948224043758087
+1038,"naughty little thought: 'its better to flirt, flirt n flirt, rather than loving someone n gettin hurt, hurt n hurt...:-) Gud nyt",ham,ham,0.9777179755662909
+2105,Anyway seriously hit me up when you're back because otherwise I have to light up with armand and he always has shit and/or is vomiting,ham,ham,0.9981630322886067
+67,"Urgent UR awarded a complimentary trip to EuroDisinc Trav, Aco&Entry41 Or Â£1000. To claim txt DIS to 87121 18+6*Â£1.50(moreFrmMob. ShrAcomOrSglSuplt)10, LS1 3AJ",spam,spam,5.461190708817448e-09
+1448,Donât give a flying monkeys wot they think and I certainly donât mind. Any friend of mine and all that!,ham,ham,0.9954175467729898
+1519,Shall i ask one thing if you dont mistake me.,ham,ham,0.9997806678575709
+5110,You have 1 new message. Please call 08715205273,spam,ham,0.05862716582782075
+192,I'm sorry. I've joined the league of people that dont keep in touch. You mean a great deal to me. You have been a friend at all times even at great personal cost. Do have a great week.|,ham,ham,0.9987739083231411
+1499,"Time n Smile r the two crucial things in our life. Sometimes time makes us to forget smile, and sometimes someone's smile makes us to forget time gud noon",ham,ham,0.9875022375316812
+1941,Dude avatar 3d was imp. At one point i thought there were actually flies in the room and almost tried hittng one as a reflex,ham,ham,0.9990682027368526
+276,Thanx...,ham,ham,0.9934385769890949
+2541,"They said if its gonna snow, it will start around 8 or 9 pm tonite! They are predicting an inch of accumulation.",ham,ham,0.9876390165636226
+5105,I wnt to buy a BMW car urgently..its vry urgent.but hv a shortage of  &lt;#&gt; Lacs.there is no source to arng dis amt. &lt;#&gt; lacs..thats my prob,ham,ham,0.9985124263606877
+858,Hai ana tomarrow am coming on morning.  &lt;DECIMAL&gt;  ill be there in sathy then we ll go to RTO office. Reply me after came to home.,ham,ham,0.99981199502258
+2617,I went to ur hon lab but no one is there.,ham,ham,0.9940118055208692
+554,Ok. Every night take a warm bath drink a cup of milk and you'll see a work of magic. You still need to loose weight. Just so that you know,ham,ham,0.9996970205956461
+1045,"We know someone who you know that fancies you. Call 09058097218 to find out who. POBox 6, LS15HB 150p",spam,spam,0.012639456391193607
+2523,Dunno lei... I might b eatin wif my frens... If Ã¼ wan to eat then i wait 4 Ã¼ lar,ham,ham,0.9992361784002967
+2839,Were trying to find a Chinese food place around here,ham,ham,0.9822348462776551
+4247,Well welp is sort of a semiobscure internet thing,ham,ham,0.9912480466541054
+3354,I emailed yifeng my part oredi.. Can Ã¼ get it fr him..,ham,ham,0.9998137835211274
+301,"Awesome, I remember the last time we got somebody high for the first time with diesel :V",ham,ham,0.9866053843732427
+4634,Oh wow thats gay. Will firmware update help,ham,ham,0.9553386104362166
+1750,DO NOT B LATE LOVE MUM,ham,ham,0.9984667700118838
+1615,Me sef dey laugh you. Meanwhile how's my darling anjie!,ham,ham,0.9994843884700527
+58,Tell where you reached,ham,ham,0.9965905431626978
+3523,"Im sorry bout last nite it wasnÂt ur fault it was me, spouse it was pmt or sumthin! U 4give me? I think u shldxxxx",ham,ham,0.9994722258252382
+2104,Its a site to simulate the test. It just gives you very tough questions to test your readiness.,ham,ham,0.9811738188610496
+5338,So when do you wanna gym?,ham,ham,0.9988775502413902
+5065,I dunno lei... Like dun haf...,ham,ham,0.9949741203848768
+2019,Ya it came a while ago,ham,ham,0.9974468425071723
+3330,Sac will score big hundred.he is set batsman:-),ham,ham,0.9988002067429019
+4263,You'll never believe this but i have actually got off at taunton. Wow,ham,ham,0.9998752258990568
+3705,Kent vale lor... Ã wait 4 me there ar?,ham,ham,0.9986898036581422
+3411,Joy's father is John. Then John is the ____ of Joy's father. If u ans ths you hav  &lt;#&gt;  IQ. Tis s IAS question try to answer.,ham,ham,0.9928729645075631
+1802,I wanna watch that movie,ham,ham,0.9908717678115985
+2106,I fetch yun or u fetch?,ham,ham,0.9622738614001617
+2796,How will I creep on you now? ;_;,ham,ham,0.986873753015519
+4274,"Kind of. Just missed train cos of asthma attack, nxt one in half hr so driving in. not sure where to park.",ham,ham,0.9983914462772155
+694,Will purchase d stuff today and mail to you. Do you have a po box number?,ham,ham,0.9177058858385576
+4756,U wan 2 haf lunch i'm in da canteen now.,ham,ham,0.9982351017736438
+3905,Your 2004 account for 07XXXXXXXXX shows 786 unredeemed points. To claim call 08719181259 Identifier code: XXXXX Expires 26.03.05,spam,spam,7.314678257649771e-07
+473,"Nothing. I meant that once the money enters your account here, the bank will remove its flat rate. Someone transfered  &lt;#&gt;  to my account and  &lt;#&gt; dollars got removed. So the banks differ and charges also differ.be sure you trust the 9ja person you are sending account details to cos...",ham,ham,0.9986452760615901
+3474,You getting back any time soon?,ham,ham,0.9966063146396855
+1381,i dnt wnt to tlk wid u,ham,ham,0.9872385129571868
+4923,Hi Dear Call me its urgnt. I don't know whats your problem. You don't want to work or if you have any other problem at least tell me. Wating for your reply.,ham,ham,0.9927194838994955
+3662,Well then you have a great weekend!,ham,ham,0.9986660482150291
+4411,You also didnt get na hi hi hi hi hi,ham,ham,0.9986995383121718
+1850,You got job in wipro:)you will get every thing in life in 2 or 3 years.,ham,ham,0.999098612727883
+4258,important information 4 orange user . today is your lucky day!2find out why log onto http://www.urawinner.com THERE'S A FANTASTIC SURPRISE AWAITING YOU!,spam,spam,1.4501364004770351e-07
+3384,K... Must book a not huh? so going for yoga basic on sunday?,ham,ham,0.9974251042987441
+3544,I'm e person who's doing e sms survey...,ham,ham,0.8540332477553513
+4965,Dear Voucher holder Have your next meal on us. Use the following link on your pc 2 enjoy a 2 4 1 dining experiencehttp://www.vouch4me.com/etlp/dining.asp,spam,spam,0.04033980327719535
+2728,Whatsup there. Dont u want to sleep,ham,ham,0.9876137779178926
+4621,THIS IS A LONG FUCKIN SHOWR,ham,ham,0.9846388093417003
+2921,"Thanx 4 the time weÂve spent 2geva, its bin mint! Ur my Baby and all I want is u!xxxx",ham,ham,0.9970962498188964
+280,All done? All handed in? Celebrations in full swing yet?,ham,ham,0.9976388262888366
+3301,Just do what ever is easier for you,ham,ham,0.9878099792456159
+2394,"Okey doke. I'm at home, but not dressed cos laying around ill! Speak to you later bout times and stuff. ",ham,ham,0.9997358954405463
+4588,"I'll see if I can swing by in a bit, got some things to take care of here firsg",ham,ham,0.9997885019783469
+847,My stomach has been thru so much trauma I swear I just can't eat. I better lose weight.,ham,ham,0.9994694026140354
+231,Get down in gandhipuram and walk to cross cut road. Right side &lt;#&gt; street road and turn at first right.,ham,ham,0.9992180067447527
+5444,Good morning. At the repair shop--the ONLY reason i'm up at this hour.,ham,ham,0.9994235866976813
+1406,K..k..any special today?,ham,ham,0.8542084447280766
+4141,Leave it wif me lar... Ã wan to carry meh so heavy... Is da num 98321561 familiar to Ã¼?,ham,ham,0.9993647067757289
+2520,Ok. I only ask abt e movie. U wan ktv oso?,ham,ham,0.9978422756723313
+987,I'm in office now . I will call you  &lt;#&gt;  min:),ham,ham,0.8967682993858312
+2847,Wat time u finish ur lect today?,ham,ham,0.9885671077300991
+4531,Don't forget though that I love you .... And I walk beside you. Watching over you and keeping your heart warm.,ham,ham,0.9952974550201836
+2385,"Sorry, I'll call later",ham,ham,0.9965494569346224
+4023,U gd lor go shopping i got stuff to do. U wan 2 watch infernal affairs a not? Come lar...,ham,ham,0.999536546176296
+3469,yay! finally lol. i missed our cinema trip last week :-(,ham,ham,0.9731036447131879
+3400,"Yeah we wouldn't leave for an hour at least, how's 4 sound?",ham,ham,0.9932692151917483
+3745,Nobody names their penis a girls name this story doesn't add up at all,ham,ham,0.9896230097553648
+4987,That's y u haf 2 keep me busy...,ham,ham,0.9994351889543018
+796,it's really getting me down just hanging around.,ham,ham,0.9991996012163504
+1993,Free tones Hope you enjoyed your new content. text stop to 61610 to unsubscribe. help:08712400602450p Provided by tones2you.co.uk,spam,spam,1.1567935332991074e-10
+4378,How much is torch in 9ja.,ham,ham,0.997545875151135
+503,Check with nuerologist.,ham,ham,0.879461880046157
+2331,Long beach lor. Expected... U having dinner now?,ham,ham,0.9951506430110191
+3252,"Iâll leave around four, ok?",ham,ham,0.9996454729180186
+623,MAKE SURE ALEX KNOWS HIS BIRTHDAY IS OVER IN FIFTEEN MINUTES AS FAR AS YOU'RE CONCERNED,ham,ham,0.9963127902301345
+2157,Hey cutie. How goes it? Here in WALES its kinda ok. There is like hills and shit but i still avent killed myself. ,ham,ham,0.9998553302333075
+3443,Save money on wedding lingerie at www.bridal.petticoatdreams.co.uk Choose from a superb selection with national delivery. Brought to you by WeddingFriend,spam,spam,8.128772387647268e-07
+4154,"URGENT!! Your 4* Costa Del Sol Holiday or Â£5000 await collection. Call 09050090044 Now toClaim. SAE, TC s, POBox334, Stockport, SK38xh, CostÂ£1.50/pm, Max10mins",spam,spam,2.8778337095408945e-09
+4172,Pls what's the full name of joke's school cos fees in university of florida seem to actually be  &lt;#&gt; k. Pls holla back,ham,ham,0.9993556136105636
+5455,Wishing you a beautiful day. Each moment revealing even more things to keep you smiling. Do enjoy it.,ham,ham,0.9911226922080166
+3970,Thanks for your message. I really appreciate your sacrifice. I'm not sure of the process of direct pay but will find out on my way back from the test tomorrow. I'm in class now. Do have a wonderful day.,ham,ham,0.9794501415221609
+4302,Are there TA jobs available? Let me know please cos i really need to start working,ham,ham,0.9986355061837786
+3417,Uhhhhrmm isnt having tb test bad when youre sick,ham,ham,0.9958008738771915
+2478,"I'm done. I'm sorry. I hope your next space gives you everything you want. Remember all the furniture is yours. If i'm not around when you move it, just lock all the locks and leave the key with jenne.",ham,ham,0.9971373384642178
+214,Yup... How Ã¼ noe leh...,ham,ham,0.999439158012183
+4879,No 1 POLYPHONIC tone 4 ur mob every week! Just txt PT2 to 87575. 1st Tone FREE ! so get txtin now and tell ur friends. 150p/tone. 16 reply HL 4info,spam,spam,4.300273716473098e-09
+4384,No need lar i go engin? Cos my sis at arts today...,ham,ham,0.9992632553755765
+5228,PRIVATE! Your 2003 Account Statement for <fone no> shows 800 un-redeemed S. I. M. points. Call 08715203656 Identifier Code: 42049 Expires 26/10/04,spam,spam,3.597799720571496e-09
+3751,"Buzz! Hey, my Love ! I think of you and hope your day goes well. Did you sleep in ? I miss you babe. I long for the moment we are together again*loving smile*",ham,ham,0.9997031887445025
+1652,I wan but too early lei... Me outside now wun b home so early... Neva mind then...,ham,ham,0.9996956297964965
+1422,Do you work all this week ?,ham,ham,0.9980155642710181
+4572,"CHA QUITEAMUZING THATÂSCOOL BABE,PROBPOP IN & CU SATTHEN HUNNY 4BREKKIE! LOVE JEN XXX. PSXTRA LRG PORTIONS 4 ME PLEASE ",ham,ham,0.9928307090873518
+3724,We left already we at orchard now.,ham,ham,0.9964881450552004
+2624,I'm coming home 4 dinner.,ham,ham,0.9994552306585504
+1034,"OH MR SHEFFIELD! You wanna play THAT game, okay. You're the boss and I'm the nanny. You give me a raise and I'll give YOU one!!",ham,ham,0.9993566585960814
+4499,"Latest Nokia Mobile or iPOD MP3 Player +Â£400 proze GUARANTEED! Reply with: WIN to 83355 now! Norcorp Ltd.Â£1,50/Mtmsgrcvd18+",spam,spam,1.6177543106577804e-11
+5421,"Hi elaine, is today's meeting confirmed?",ham,ham,0.9923289662128703
+1351,Bugis oso near wat... ,ham,ham,0.9938981418526874
+3822,You are right though. I can't give you the space you want and need. This is really starting to become an issue. I was going to suggest setting a definite move out--if i'm still there-- after greece. But maybe you are ready and should do it now.,ham,ham,0.9994609331660868
+3988,Ringtone Club: Gr8 new polys direct to your mobile every week !,spam,spam,6.587269533221153e-07
+2583,"3 FREE TAROT TEXTS! Find out about your love life now! TRY 3 FOR FREE! Text CHANCE to 85555 16 only! After 3 Free, Msgs Â£1.50 each",spam,spam,1.8750903237901694e-09
+4348,U 447801259231 have a secret admirer who is looking 2 make contact with U-find out who they R*reveal who thinks UR so special-call on 09058094597,spam,spam,5.7979908212964826e-06
+1854,I just made some payments so dont have that much. Sorry. Would you want it fedex or the other way.,ham,ham,0.999803668377817
+4065,Prof: you have passed in all the papers in this sem congrats . . . . Student: Enna kalaachutaarama..!! Prof:???? Gud mrng!,ham,ham,0.9936195042661641
+4540,"Party's at my place at usf, no charge (but if you can contribute in any way it is greatly appreciated) and yeah, we got room for one more",ham,ham,0.9999504942096203
+4233,I'm at home. Please call,ham,ham,0.9311789002295834
+2065,Pass dis to all ur contacts n see wat u get! Red;i'm in luv wid u. Blue;u put a smile on my face. Purple;u r realy hot. Pink;u r so swt. Orange;i thnk i lyk u. Green;i realy wana go out wid u. Yelow;i wnt u bck. Black;i'm jealous of u. Brown;i miss you Nw plz giv me one color,ham,ham,0.9853593167106576
+5379,Somebody set up a website where you can play hold em using eve online spacebucks,ham,ham,0.9965313401130947
+4806,Sorry for the delay. Yes masters,ham,ham,0.9890363319221022
+161,Keep yourself safe for me because I need you and I miss you already and I envy everyone that see's you in real life,ham,ham,0.9996201969808901
+1608,Jus telling u dat i'll b leaving 4 shanghai on 21st instead so we'll haf more time 2 meet up cya...,ham,ham,0.999024733385202
+943,How about getting in touch with folks waiting for company? Just txt back your NAME and AGE to opt in! Enjoy the community (150p/SMS),spam,spam,0.012955071400857866
+662,Then mum's repent how?,ham,ham,0.9991965061594167
+5218,I accidentally brought em home in the box,ham,ham,0.9726365540591176
+2064,"URGENT! Your mobile No *********** WON a Â£2,000 Bonus Caller Prize on 02/06/03! This is the 2nd attempt to reach YOU! Call 09066362220 ASAP! BOX97N7QP, 150ppm",spam,spam,5.240375649453412e-10
+2914,Kindly send some one to our flat before  &lt;DECIMAL&gt;  today.,ham,ham,0.9881294762792646
+5495,"Good afternoon, my love ... How goes your day ? How did you sleep ? I hope your well, my boytoy ... I think of you ...",ham,ham,0.9998832916213665
+867,"Same here, but I consider walls and bunkers and shit important just because I never play on peaceful but I guess your place is high enough that it don't matter",ham,ham,0.9971484353291235
+5371,"Lol, oh you got a friend for the dog ?",ham,ham,0.998344508066147
+4054,I was slept that time.you there?,ham,ham,0.9987852084805487
+2773,Still in customer place,ham,ham,0.9637562037248205
+1026,I have a sore throat. It's scratches when I talk,ham,ham,0.9982814216088004
+1051,Are you available for soiree on June 3rd?,ham,ham,0.9298516723312166
+5387,I will be gentle baby! Soon you will be taking all  &lt;#&gt;  inches deep inside your tight pussy...,ham,ham,0.9993196111446059
+3381,Just finished. Missing you plenty,ham,ham,0.9957726620556338
+2688,Okie,ham,ham,0.9872839935889618
+3369,"Hey elaine, is today's meeting still on?",ham,ham,0.9953080290515349
+1548,Bishan lar nearer... No need buy so early cos if buy now i gotta park my car...,ham,ham,0.9992117278733238
+3121,Good evening! this is roger. How are you?,ham,ham,0.9977925106679351
+1960,Howz that persons story,ham,ham,0.9940555679138976
+4366,Ujhhhhhhh computer shipped out with address to sandiago and parantella lane. Wtf. Poop.,ham,ham,0.8712621758073587
+2039,Hey are we going for the lo lesson or gym? ,ham,ham,0.9923983690498038
+2894,K I'll be sure to get up before noon and see what's what,ham,ham,0.9993920794053975
+636,Me n him so funny...,ham,ham,0.9998814817572362
+3488,Change windows logoff sound..,ham,ham,0.9854597456727757
+1576,"Sounds gd... Haha... Can... Wah, u yan jiu so fast liao...",ham,ham,0.9984081141724348
+1947,Hey we can go jazz power yoga hip hop kb and yogasana ,ham,ham,0.9984140146300753
+4815,Ummmmmaah Many many happy returns of d day my dear sweet heart.. HAPPY BIRTHDAY dear,ham,ham,0.997566635707673
+507,"Maybe westshore or hyde park village, the place near my house?",ham,ham,0.9947187341793113
+1537,How's it feel? Mr. Your not my real Valentine just my yo Valentine even tho u hardly play!!,ham,ham,0.9950949827485669
+3194,I will lick up every drop :) are you ready to use your mouth as well?,ham,ham,0.9921193385554119
+98,"Hi. Wk been ok - on hols now! Yes on for a bit of a run. Forgot that i have hairdressers appointment at four so need to get home n shower beforehand. Does that cause prob for u?""",ham,ham,0.9964981082170511
+5274,"Hi. Hope ur day * good! Back from walk, table booked for half eight. Let me know when ur coming over.",ham,ham,0.9941494150182353
+792,All e best 4 ur driving tmr :-),ham,ham,0.9919807845933944
+3706,Ok. Very good. Its all about making that money.,ham,ham,0.9998728785243128
+3505,Will you be here for food,ham,ham,0.9940548895793619
+1476,"Nice. Wait...should you be texting right now? I'm not gonna pay your ticket, ya know!",ham,ham,0.9966376928670115
+2597,No i'm not gonna be able to. || too late notice. || i'll be home in a few weeks anyway. || what are the plans,ham,ham,0.9995992091152677
+3229,"SIX chances to win CASH! From 100 to 20,000 pounds txt> CSH11 and send to 87575. Cost 150p/day, 6days, 16+ TsandCs apply Reply HL 4 info",spam,spam,3.23034928583071e-11
+1577,No. To be nosy I guess. Idk am I over reacting if I'm freaked?,ham,ham,0.9893175054441649
+3276,Hurry home u big butt. Hang up on your last caller if u have to. Food is done and I'm starving. Don't ask what I cooked.,ham,ham,0.9943771545791241
+2403,Oh oh... Wasted... Den muz chiong on sat n sun liao...,ham,ham,0.996599689777515
+2934,Yo do you know anyone  &lt;#&gt;  or otherwise able to buy liquor? Our guy flaked and right now if we don't get a hold of somebody its just 4 loko all night,ham,ham,0.99628137950119
+4943,"I'm eatin now lor, but goin back to work soon... E mountain deer show huh... I watch b4 liao, very nice...",ham,ham,0.9983885152205232
+2569,Hey. For me there is no leave on friday. Wait i will ask my superior and tell you..,ham,ham,0.9994460161138176
+3306,Ee msg na poortiyagi odalebeku: Hanumanji 7 name 1-Hanuman 2-Bajarangabali 3-Maruti 4-Pavanaputra 5-Sankatmochan 6-Ramaduth 7-Mahaveer ee 7 name  &lt;#&gt;  janarige ivatte kalisidare next saturday olage ondu good news keluviri...! Maretare inde 1 dodda problum nalli siguviri idu matra  &lt;#&gt; % true.. Don't neglet.,ham,ham,0.9941917964838762
+4070,Hope youÂre not having too much fun without me!! see u tomorrow love jess x,ham,ham,0.9996091390593349
+4822,Im good! I have been thinking about you...,ham,ham,0.9976173979562717
+4150,"Haven't found a way to get another app for your phone, eh ? Will you go to the net cafe ? Did you take that job? Geeee I need you babe. I crave to see you ...",ham,ham,0.9904797316431113
+1264,Ok. No wahala. Just remember that a friend in need ...,ham,ham,0.9997217310335951
+4544,I've been trying to reach him without success,ham,ham,0.9914872598442905
+2147,So can collect ur laptop?,ham,ham,0.9686882303594277
+1431,Don't look back at the building because you have no coat and i don't want you to get more sick. Just hurry home and wear a coat to the gym!!!,ham,ham,0.995936929402264
+2265,Ok . . now i am in bus. . If i come soon i will come otherwise tomorrow,ham,ham,0.9999551924625392
+3500,I hope you arnt pissed off but id would really like to see you tomorrow. Love me xxxxxxxxxxxxxX,ham,ham,0.999879554620827
+3205,She's good. How are you. Where r u working now,ham,ham,0.9991590359991934
+4615,hows my favourite person today? r u workin hard? couldn't sleep again last nite nearly rang u at 4.30,ham,ham,0.9974419993782125
+1271,"Sorry chikku, my cell got some problem thts y i was nt able to reply u or msg u..",ham,ham,0.9755294446071566
+1240,Hope you are having a great new semester. Do wish you the very best. You are made for greatness.,ham,ham,0.9966393501548371
+4737,"Not for possession, especially not first offense",ham,ham,0.9879731071641185
+5017,Hey gals...U all wanna meet 4 dinner at nÃ¬te? ,ham,ham,0.9975184821296891
+2644,Hi! You just spoke to MANEESHA V. We'd like to know if you were satisfied with the experience. Reply Toll Free with Yes or No.,ham,ham,0.8591967171905212
+1946,Can Ã¼ call me at 10:10 to make sure dat i've woken up...,ham,ham,0.9941701865693131
+3957,Haha... dont be angry with yourself... Take it as a practice for the real thing. =) ,ham,ham,0.9825551014048133
+4833,Rats. Hey did u ever vote for the next themes?,ham,ham,0.9952064990839351
+1919,Is fujitsu s series lifebook good?,ham,ham,0.9938353130185376
+2538,That's y we haf to combine n c how lor...,ham,ham,0.9977675826258368
+3529,"You are a Â£1000 winner or Guaranteed Caller Prize, this is our Final attempt to contact you! To Claim Call 09071517866 Now! 150ppmPOBox10183BhamB64XE",spam,spam,7.370875686077593e-12
+5488,K. I will sent it again,ham,ham,0.9993228141276763
+5134,Sday only joined.so training we started today:),ham,ham,0.9899152717401188
+5,"FreeMsg Hey there darling it's been 3 week's now and no word back! I'd like some fun you up for it still? Tb ok! XxX std chgs to send, Â£1.50 to rcv",spam,ham,0.34100968909769386
+1289,Happy new year to u too!,ham,ham,0.9398025062371445

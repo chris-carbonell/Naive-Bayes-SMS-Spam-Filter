@@ -17,9 +17,13 @@ I found the data here: [https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 ## Conclusion
 
+## Prerequisites
+* Python 3.X (3.6.0)
+
 ## Helpful Links
 * [https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd](https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd)
 * [https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html](https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html)
 * [https://machinelearningmastery.com/clean-text-machine-learning-python/](https://machinelearningmastery.com/clean-text-machine-learning-python/)
 * [https://scikit-learn.org/stable/modules/feature_extraction.html](https://scikit-learn.org/stable/modules/feature_extraction.html)
 * [https://stackoverflow.com/questions/37651057/generate-bigrams-with-nltk](https://stackoverflow.com/questions/37651057/generate-bigrams-with-nltk)
+* [https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a](https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a)
