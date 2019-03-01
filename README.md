@@ -11,8 +11,11 @@
 
 ## Data
 
-I found the data here: [https://github.com/IBM/sms-spam-filter-using-hortonworks/blob/master/data/SMSSpamCollection.csv](https://github.com/IBM/sms-spam-filter-using-hortonworks/blob/master/data/SMSSpamCollection.csv)
+I found the data here: [https://www.kaggle.com/uciml/sms-spam-collection-dataset/home](https://www.kaggle.com/uciml/sms-spam-collection-dataset/home)
 
 ## Visualizations
 
 ## Conclusion
+
+## Helpful Links
+* [https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd](https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd)
