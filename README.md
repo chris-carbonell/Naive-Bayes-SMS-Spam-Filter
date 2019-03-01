@@ -12,14 +12,16 @@ Both models scored really well in terms of accuracy:
 * SVM = 98%
 
 Logistic model's confusion matrix:
-||Actually Ham|Actually Spam|
-|Predicted to be Ham|490|0|
-|Predicted to be Spam|10|58|
+|                      | Actually Ham | Actually Spam |
+|----------------------|--------------|---------------|
+| Predicted to be Ham  | 490          | 5             |
+| Predicted to be Spam | 0            | 58            |
 
 SVM model's confusion matrix:
-||Actually Ham|Actually Spam|
-|Predicted to be Ham|490|0|
-|Predicted to be Spam|10|58|
+|                      | Actually Ham | Actually Spam |
+|----------------------|--------------|---------------|
+| Predicted to be Ham  | 490          | 5             |
+| Predicted to be Spam | 0            | 58            |
 
 ## Data
 
