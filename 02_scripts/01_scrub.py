@@ -3,6 +3,8 @@ import pandas as pd
 from nltk import stem
 from nltk.corpus import stopwords
 
+import pprint
+
 def scrub_txt(dirty_txt):
     '''scrub text: lower, stop words, and stem
 
@@ -28,6 +30,8 @@ def scrub_txt(dirty_txt):
 
 if __name__ == "__main__":
 
+    pp = pprint.PrettyPrinter(indent=4)
+
     # import data
     df_data = pd.read_csv("../01_data/smsspamcollection/SMSSpamCollection",
         sep='\t', encoding="latin-1",
@@ -39,3 +43,6 @@ if __name__ == "__main__":
     df_data.loc[df_data["collection"] == "spam", "collection_log"] = 0
 
     df_data.to_csv("../01_data/sms.csv", encoding='utf-8', index=False)
+
+    # quick summary on incoming data
+    pp.pprint(df_data.shape) # (5572, 4)

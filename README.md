@@ -1,12 +1,12 @@
-# Naive Bayes SMS Spam Filter
+# SMS Spam Filter
 
-## Goal
+## Goals
 
-* Build a spam filter for an SMS data set using a bag-of-words model
+* Classify SMS text messages as spam or ham (not spam) using a bag-of-words model and a SVM
 * Compare the efficiency of a unigram model vs a bigram model
 
 ## Abstract
-
+The data set provides 5,572 messages classified as either "spam" or "ham" (based on )
 
 
 ## Data
@@ -18,7 +18,7 @@ I found the data here: [https://www.kaggle.com/uciml/sms-spam-collection-dataset
 ## Conclusion
 
 ## Prerequisites
-* Python 3.X (3.6.0)
+* Python 3.x (3.6.0)
 
 ## Helpful Links
 * [https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd](https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd)
