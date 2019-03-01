@@ -15,6 +15,9 @@ I found the data here: [https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 ## Visualizations
 
+![](https://github.com/chris-carbonell/Naive-Bayes-SMS-Spam-Filter/blob/master/assets/test.jpg?raw=true=100x100)
+![](https://github.com/chris-carbonell/Naive-Bayes-SMS-Spam-Filter/blob/master/assets/test.jpg?raw=true=200x200)
+
 ## Conclusion
 
 ## Prerequisites
@@ -27,6 +30,3 @@ I found the data here: [https://www.kaggle.com/uciml/sms-spam-collection-dataset
 * [https://scikit-learn.org/stable/modules/feature_extraction.html](https://scikit-learn.org/stable/modules/feature_extraction.html)
 * [https://stackoverflow.com/questions/37651057/generate-bigrams-with-nltk](https://stackoverflow.com/questions/37651057/generate-bigrams-with-nltk)
 * [https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a](https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a)
-
-![Demo Animation](../assets/test.jpg?raw=true)
-![Demo Animation](https://github.com/chris-carbonell/Naive-Bayes-SMS-Spam-Filter/blob/master/assets/test.jpg?raw=true)
