@@ -1,5 +1,6 @@
 import pandas as pd
 import seaborn as sns
+import matplotlib.pyplot as plt
 import pprint
 
 if __name__ == "__main__":
@@ -25,8 +26,11 @@ if __name__ == "__main__":
     # pp.pprint(df_all.head())
 
     # distribution of y_pred_proba_x
-    sns.set()
-    plot = sns.distplot(df_all['y_pred_proba_x'])
+    plot = sns.distplot(df_all['y_pred_proba_x'], axlabel='Model Prediction (0=spam, 1=ham)', label='Message Count')
     plot.set(xlim=(0,1), ylim=(0,None))
-    figure = plot.get_figure()
-    figure.savefig("../03_results/02_visualizations/plot_01.png", dpi=400)
+    plt.savefig("../03_results/02_visualizations/plot_01.png", dpi=400)
+
+    # distribution of y_pred_proba_y
+    plot = sns.distplot(df_all['y_pred_proba_x'], axlabel='Model Prediction (0=spam, 1=ham)', label='Message Count')
+    plot.set(xlim=(0,1), ylim=(0,None))
+    plt.savefig("../03_results/02_visualizations/plot_02.png", dpi=400)

@@ -7,23 +7,23 @@
 
 ## Executive Summary
 
-Both models scored really well in terms of accuracy:
+Both models scored well in terms of accuracy:
 * Logistic = 93%
 * SVM = 98%
 
-Logistic model's confusion matrix:
+Logistic model's confusion matrix (testing data):
 
 |                      | Actually Ham | Actually Spam |
 |:---------------------|-------------:|--------------:|
-| Predicted to be Ham  | 490          | 5             |
-| Predicted to be Spam | 0            | 58            |
+| Predicted to be Ham  | 487          | 2             |
+| Predicted to be Spam | 7            | 62            |
 
-SVM model's confusion matrix:
+SVM model's confusion matrix (testing data):
 
 |                      | Actually Ham | Actually Spam |
 |:---------------------|-------------:|--------------:|
-| Predicted to be Ham  | 490          | 5             |
-| Predicted to be Spam | 0            | 58            |
+| Predicted to be Ham  | 488          | 1             |
+| Predicted to be Spam | 8            | 61            |
 
 ## Data
 
@@ -35,13 +35,18 @@ Of those messages, 4,825 (~87%) are classified as ham with the remaining 747 (~1
 
 ## Visualizations
 
-![](https://github.com/chris-carbonell/Naive-Bayes-SMS-Spam-Filter/blob/master/assets/test.jpg?raw=true)
-* distribution by proba
+In the following visualizations, the x-axis ranges from 0, spam, to 1, ham. For example, a prediction of 0.4 indicates the message is probably spam but not super spammy.
+
+### Logistic model's histogram of probabilities
+![](https://raw.githubusercontent.com/chris-carbonell/Naive-Bayes-SMS-Spam-Filter/master/03_results/02_visualizations/plot_01.png?raw=true)
+
+### SVM model's histogram of probabilities
+![](https://raw.githubusercontent.com/chris-carbonell/Naive-Bayes-SMS-Spam-Filter/master/03_results/02_visualizations/plot_02.png?raw=true)
 
 ## Prerequisites
 * Python 3.x (3.6.0)
 
-## Helpful Links
+## Resources
 * [https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd](https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd)
 * [https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html](https://bbengfort.github.io/tutorials/2016/05/19/text-classification-nltk-sckit-learn.html)
 * [https://machinelearningmastery.com/clean-text-machine-learning-python/](https://machinelearningmastery.com/clean-text-machine-learning-python/)
