@@ -23,7 +23,7 @@ if __name__ == "__main__":
     # pp.pprint(df_log.head())
     # pp.pprint(df_svm.head())
     # print(list(df_all.columns.values))
-    pp.pprint(df_all.head())
+    # pp.pprint(df_all.head())
 
     # distribution of Logistic model predictions
     plot = sns.distplot(df_all['y_pred_proba_x'])

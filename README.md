@@ -2,8 +2,7 @@
 
 ## Goals
 
-* Classify SMS text messages as spam or ham (i.e., not spam) using a bag-of-words model and a SVM
-* Compare the efficiency of a unigram model vs a bigram model
+* Classify SMS text messages as spam or ham (i.e., not spam) using a bag-of-words model and a SVM model
 
 ## Executive Summary
 
@@ -24,6 +23,8 @@ SVM model's confusion matrix (testing data):
 |:---------------------|-------------:|--------------:|
 | Predicted to be Ham  | 488          | 1             |
 | Predicted to be Spam | 8            | 61            |
+
+Therefore, at least between these two models, the SVM would be the suggested model to use for identifying spam messages.
 
 ## Examples of Messages
 Here are a few examples of messages that are very likely ham, very likely spam, and some messages that were tougher to classify based on the SVM model. Probabilities are rounded to three decimals.
@@ -76,6 +77,9 @@ In the following visualizations, the x-axis ranges from 0, spam, to 1, ham. For 
 
 ## Prerequisites
 * Python 3.x (3.6.0)
+
+## Future Enhancements
+* compare predictive power of unigram and bigram models
 
 ## Resources
 * [https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd](https://towardsdatascience.com/spam-or-ham-introduction-to-natural-language-processing-part-2-a0093185aebd)
