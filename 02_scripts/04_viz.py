@@ -32,6 +32,7 @@ if __name__ == "__main__":
     plt.xlabel("Model Prediction (0=spam, 1=ham)")
     plt.ylabel("Number of Messages")
     plt.savefig("../03_results/02_visualizations/plot_01.png", dpi=400)
+    plt.clf()
 
     # distribution of y_pred_proba_y
     plot = sns.distplot(df_all['y_pred_proba_x'])
@@ -40,3 +41,4 @@ if __name__ == "__main__":
     plt.xlabel("Model Prediction (0=spam, 1=ham)")
     plt.ylabel("Number of Messages")
     plt.savefig("../03_results/02_visualizations/plot_02.png", dpi=400)
+    plt.clf()
