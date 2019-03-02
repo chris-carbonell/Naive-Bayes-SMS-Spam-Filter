@@ -23,10 +23,10 @@ if __name__ == "__main__":
     # pp.pprint(df_log.head())
     # pp.pprint(df_svm.head())
     # print(list(df_all.columns.values))
-    # pp.pprint(df_all.head())
+    pp.pprint(df_all.head())
 
-    # distribution of y_pred_proba_x
-    plot = sns.distplot(df_all['y_pred_proba_y'])
+    # distribution of Logistic model predictions
+    plot = sns.distplot(df_all['y_pred_proba_x'])
     plot.set(xlim=(0,1), ylim=(0,None))
     plt.xticks([0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1])
     plt.xlabel("Model Prediction (0=spam, 1=ham)")
@@ -34,8 +34,8 @@ if __name__ == "__main__":
     plt.savefig("../03_results/02_visualizations/plot_01.png", dpi=400)
     plt.clf()
 
-    # distribution of y_pred_proba_y
-    plot = sns.distplot(df_all['y_pred_proba_x'])
+    # distribution of SVM model predictions
+    plot = sns.distplot(df_all['y_pred_proba_y'])
     plot.set(xlim=(0,1), ylim=(0,None))
     plt.xticks([0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1])
     plt.xlabel("Model Prediction (0=spam, 1=ham)")
