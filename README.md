@@ -1,8 +1,8 @@
 # SMS Spam Filter
 
-## Goals
+## Goal
 
-* Classify SMS text messages as spam or ham (i.e., not spam) using a bag-of-words model and a SVM model
+Classify SMS text messages as spam or ham (i.e., not spam) using a bag-of-words model and a SVM model
 
 ## Executive Summary
 
