@@ -24,7 +24,7 @@ SVM model's confusion matrix (testing data):
 | Predicted to be Ham  | 488          | 1             |
 | Predicted to be Spam | 8            | 61            |
 
-Therefore, at least between these two models, the SVM would be the suggested model to use for identifying spam messages.
+Therefore, at least between these two models, the SVM model would be the suggested model to use for identifying spam messages.
 
 ## Examples of Messages
 Here are a few examples of messages that are very likely ham, very likely spam, and some messages that were tougher to classify based on the SVM model. Probabilities are rounded to three decimals.
